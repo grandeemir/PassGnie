@@ -30,7 +30,11 @@ pip install cryptography
 python3 passgnie.py
 ```
 
+<img width="1512" alt="Screenshot 2025-06-13 at 17 30 29" src="https://github.com/user-attachments/assets/3abec91f-ec88-4e48-92ac-c84827ff2740" />
+
 create your master key (this key is your program opening key you should just remember this key)
+
+<img width="1512" alt="Screenshot 2025-06-13 at 17 31 34" src="https://github.com/user-attachments/assets/6b494061-49e8-4104-b5d1-577e0f21191d" />
 
 its done you can use it
 
