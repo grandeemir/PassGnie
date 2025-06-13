@@ -21,12 +21,11 @@ Welcome to your new **Password Manager** — a secure, easy-to-use Python tool t
 
 Make sure you have Python 3 installed. Then install the encryption library:
 
+Open your terminal > go to your downloaded path for passgnie folder >
+
 ```bash
 pip install cryptography
 ```
-
-Open your terminal > go to your downloaded path for passgnie folder >
-
 ```bash
 python3 passgnie.py
 ```
